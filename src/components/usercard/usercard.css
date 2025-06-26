@@ -1,0 +1,43 @@
+.cardBola {
+    width: 300px;
+    height: 400px;
+    top: 293px;
+    left: 182px;
+    background-color: #FCF2E5;
+}
+
+.cardBola img {
+    width: 80%;
+    padding-top: 15px;
+    margin: 0 auto;
+    display: block;
+}
+
+.cardBola h2 {
+    font-family: Inter;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.cardBola p {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: gray;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.img2 img {
+    width: 25%;
+    margin-right: 70%;
+}

@@ -1,0 +1,76 @@
+.body {
+    background-color: #F2EFEF;
+}
+
+
+.h1 {
+    font-weight: 400;
+    font-size: 75px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+
+
+
+.cardBola1 {
+    margin-top: 25px;
+    width: 300px;
+    height: 400px;
+    top: 293px;
+    left: 182px;
+    background-color: white;
+
+}
+
+.cardBola1 img {
+    width: 80%;
+    padding-top: 15px;
+    margin: 0 auto;
+    display: block;
+}
+
+.cardBola1 h2 {
+    font-family: Inter;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.cardBola1 p {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: gray;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.cardBola1 .img2 img {
+    width: 25%;
+    margin-right: 70%;
+}
+
+
+
+.cardOta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    gap: 4px;
+}
+
+
